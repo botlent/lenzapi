@@ -2,9 +2,9 @@
   "name": "sekhaanteng",
   "version": "1.1.0",
   "description": "turu",
-  "main": "node index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -13,8 +13,7 @@
   "keywords": [
     "simple",
     "api",
-    "rest",
-    "api"
+    "rest"
   ],
   "author": "Zhirrr",
   "license": "ISC",
